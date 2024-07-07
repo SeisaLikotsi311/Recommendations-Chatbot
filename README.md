@@ -1,8 +1,5 @@
-# GradHack-Maties-TechMavericks
 
-Team Maties TechMavericks Project for Discovery DradHack2024
-
-# Discovery Recommendation System with Chatbot
+# Discovery Recommendation Chatbot
 
 Welcome to the Discovery Recommendation System with Chatbot project, developed by Seisa Likotsi and team in July 2024.
 
