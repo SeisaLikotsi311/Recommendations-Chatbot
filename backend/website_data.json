@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "question": "What types of savings accounts do you offer?",
+            "answer": "We offer Demand Savings Account, Notice Savings Account, Tax-free Demand Savings Account, and Fixed Deposit Account."
+        },
+        {
+            "question": "What types of credit cards do you offer?",
+            "answer": "We offer Gold Card, Black Card, Platinum Card, and Purple Card."
+        },
+        {
+            "question": "What types of banking suites do you offer?",
+            "answer": "We offer Gold Card, Black Card, Platinum Card, and Purple Card."
+        },
+        {
+            "question": "Can you recommend a banking product based on my income and spending?",
+            "answer": "Please provide your income and spending details in the recommendations section to get a personalized banking recommendation."
+        },
+        {
+            "question": "Can you recommend a car insurance based on my car model and distance driven?",
+            "answer": "Please provide your car model, distance driven, monthly income, and insurance budget in the car insurance recommendations section to get a personalized recommendation."
+        },
+        {
+            "question": "Can you recommend a travel destination based on my budget?",
+            "answer": "Please provide your desired destination and budget in the travel recommendations section to get a personalized travel recommendation."
+        },
+        {
+            "question": "What is the purpose of the chatbot?",
+            "answer": "The chatbot is here to assist you with questions about our banking products, car insurance, and travel recommendations, and to provide personalized suggestions based on the information you provide."
+        }
+    ]
+}
