@@ -59,10 +59,6 @@ To run the Discovery Recommendation System on your local machine, follow these s
 
 - **Project Date**: July 2024
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to Discovery for providing data and insights for this project.
